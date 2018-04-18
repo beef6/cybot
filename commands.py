@@ -286,7 +286,7 @@ def git(args):
 
 @command("reminder")
 def reminder(args):  # today, I will remind them
-    return ('Remember to fix your posture :D http://gateway.ipfs.io/ipfs/QmR91KZ77KMg1h8HqBTxtHNZiWCECiXhHkTR7coVqyyFvF/posture.jpg\n')
+    return ('Reminder to sit up straight and drink water!')
 
 @command("memearrows")
 def memearrows(args):  # >implying you can triforce
@@ -541,6 +541,9 @@ def coolt(args):
 def booty(args):
     return "( ͡° ͜ʖ ͡°)"
 
+@command("realniggahours")
+def realniggahours(args):
+        return "----REAL NIGGA HOURS----"
 
 @command("shrug")
 def shrug(args):
